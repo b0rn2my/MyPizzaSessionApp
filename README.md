@@ -9,4 +9,4 @@ Send the link for the session to your guests!<br/>
 Your guests can order online!<br/>
 
 
-![release packages](https://github.com/icon-project/icon-release/workflows/Release%20packages/badge.svg?event=workflow_dispatch)
+![alt text](https://repository-images.githubusercontent.com/783656255/17d36d8d-4e1b-4dc4-93ec-57aac7dc3805)
